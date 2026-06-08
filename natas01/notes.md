@@ -47,8 +47,9 @@ Disabling right-click functionality does not prevent users from accessing page s
 
 ## Screenshots
 <img width="1917" height="715" alt="image" src="https://github.com/user-attachments/assets/b6577b93-8989-4ad5-a464-45a387f9b318" />
+*Use ctrl u
 <img width="1355" height="451" alt="image" src="https://github.com/user-attachments/assets/6a7701bd-d650-4729-b04f-7bce6f65df75" />
 
 
-This challenge demonstrated the difference between restricting user interface actions and actually protecting sensitive information.
+
 
