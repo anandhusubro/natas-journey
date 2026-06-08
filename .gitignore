@@ -1,0 +1,5 @@
+passwords.txt
+credentials.txt
+*.session
+*.cookie
+*.token
