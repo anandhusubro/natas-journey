@@ -48,6 +48,11 @@ The source code disclosed the exact algorithm used to encode the secret. While t
 * Reverse Engineering
 * Information Disclosure
 
-## Security Lesson
+## Screenshots
+The source code revealed a sequence of transformations used to obscure a secret value. By tracing the encoding process and reversing each operation in the correct order, the original value could be recovered. This demonstrates the difference between data encoding and true cryptographic protection.
 
-Sensitive data should not rely on reversible encoding for protection. If the encoding process is exposed, an attacker can often reconstruct the original value. Proper cryptographic controls should be used when protecting secrets.
+<img width="1145" height="651" alt="image" src="https://github.com/user-attachments/assets/979f9d8e-9f33-452a-ba98-5427ba9bba56" />
+
+<img width="1657" height="541" alt="image" src="https://github.com/user-attachments/assets/75c1daf5-cb38-48da-a636-a386cc839926" />
+
+
