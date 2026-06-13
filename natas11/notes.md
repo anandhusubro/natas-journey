@@ -37,6 +37,7 @@ Ciphertext XOR Plaintext = Key
 
 Using the browser's developer tools, copy the value of the data cookie.
 
+
 **Step 2:** Recover the XOR key
 
 Base64-decode the cookie and XOR it with the known plaintext:
@@ -46,6 +47,7 @@ Base64-decode the cookie and XOR it with the known plaintext:
 The resulting bytes reveal a repeating pattern. The repeating XOR key is:
 
 qw8J
+
 **Step 3:** Create a malicious cookie
 
 Modify the JSON so that showpassword is set to "yes":
@@ -77,6 +79,8 @@ $data = json_encode(array(
 
 echo base64_encode(xor_encrypt($data, $key));
 ?>
+
+
 **Step 4:** Replace the cookie
 Open Developer Tools → Application/Storage → Cookies.
 Replace the existing data cookie with the generated value.
