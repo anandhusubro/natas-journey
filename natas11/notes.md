@@ -33,6 +33,8 @@ Plaintext XOR Key = Ciphertext
 Rearranging the equation gives:
 
 Ciphertext XOR Plaintext = Key
+
+
 **Step 1:** Copy the data cookie
 
 Using the browser's developer tools, copy the value of the data cookie.
