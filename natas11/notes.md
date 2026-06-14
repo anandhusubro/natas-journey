@@ -93,3 +93,6 @@ The application now processes:
 {"showpassword":"yes","bgcolor":"#ffffff"}
 
 and reveals the password for Natas Level 12.
+
+<img width="1347" height="552" alt="image" src="https://github.com/user-attachments/assets/0b08a0ee-8adf-4ce5-ae78-1c5a191fd881" />
+
