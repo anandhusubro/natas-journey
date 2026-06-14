@@ -131,4 +131,21 @@ This is a classic **magic-byte bypass** of insecure file upload validation.
 /etc/natas_webpass/natas14
 ```
 
+<img width="1042" height="443" alt="Screenshot 2026-06-14 085016" src="https://github.com/user-attachments/assets/7a3b5e5d-edcc-4cf5-a82f-d128798ed765" />
+
+
+---
+
+
+<img width="1055" height="502" alt="Screenshot 2026-06-14 084942" src="https://github.com/user-attachments/assets/6a878745-349e-49ca-9899-030d00b600a2" />
+
+
+---
+
+
+<img width="1897" height="541" alt="Screenshot 2026-06-14 084116" src="https://github.com/user-attachments/assets/1a32036f-ffc8-49fb-a8f0-491b8f0769e5" />
+
+
+
+
 
