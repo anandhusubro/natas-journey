@@ -154,14 +154,6 @@ print("\n[*] Final Password:", password)
 
 ---
 
-## Key Learnings
 
-* Command injection via unsanitized input
-* Subshell execution using `$(...)`
-* Boolean oracle exploitation
-* Side-channel data leakage
-* Prefix-based brute force reconstruction
-
----
 
 
